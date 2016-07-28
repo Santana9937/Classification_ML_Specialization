@@ -1,2 +1,4 @@
-# Classification_ML_Specialization
-Assignments for Coursera Machine Learning: Classification course.
+###Assignments for Coursera Machine Learning: Classification course from the University of Washington.
+
+https://www.coursera.org/learn/ml-classification
+
