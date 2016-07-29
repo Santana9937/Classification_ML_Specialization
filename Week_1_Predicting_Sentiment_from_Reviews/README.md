@@ -1,4 +1,4 @@
-### Week 2 assignments for Coursera Machine Learning: Classification course from the University of Washington.
+### Week 1 assignments for Coursera Machine Learning: Classification course from the University of Washington.
 
 ### Ipython notebook for Predicting sentiment from product reviews
 
