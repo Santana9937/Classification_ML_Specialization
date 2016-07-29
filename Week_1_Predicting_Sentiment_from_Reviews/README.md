@@ -4,11 +4,13 @@
 
 http://nbviewer.jupyter.org/github/Santana9937/Classification_ML_Specialization/blob/master/Week_1_Predicting_Sentiment_from_Reviews/week_1_lin_classifier_assign.ipynb
 
-In this notebook, we will use data on house sales in King County, Seatle to predict prices using multiple regression. The goal of this notebook is to explore multiple regression and feature engineering. You will:
+In this notebook, you will use product review data from Amazon.com to predict whether the sentiments about a product (from its reviews) are positive or negative.
 
 * Use DataFrames to do some feature engineering
-* Use sklearn to compute the regression weights (coefficients/parameters)
-* Given the regression weights, predictors and outcome write a function to compute the Residual Sum of Squares (RSS)
-* Look at coefficients and interpret their meanings
-* Evaluate multiple models via RSS
+* Train a logistic regression model to predict the sentiment of product reviews.
+* Inspect the weights (coefficients) of a trained logistic regression model.
+* Make a prediction (both class and probability) of sentiment for a new product review.
+* Given the logistic regression weights, predictors and ground truth labels, write a function to compute the **accuracy** of the model.
+* Inspect the coefficients of the logistic regression model and interpret their meanings.
+* Compare multiple logistic regression models.
 
